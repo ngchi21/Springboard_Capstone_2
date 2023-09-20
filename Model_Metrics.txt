@@ -1,0 +1,14 @@
+Springboard Capstone 2 Model Metrics:
+
+Linear Regression:
+The linear regression mean squared error: 0.2126697509640798
+The linear regression model R squared: 0.8948769714186898
+
+K-Nearest Neighbors - 172 Neighbors:
+The K Nearest Neighbors model mean squared error: 2.7925584458347052
+The K Nearest Neighbors R squared value: 0.30260125123477116
+
+Random Forest:
+RandomForestRegressor(min_samples_leaf=2, min_samples_split=8)
+The K Nearest Neighbors model mean squared error: 0.0013419260176346691
+The K Nearest Neighbors R squared value: 0.999336683630529
